@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "bucket1" {
-	bucket = "neeha-first-bucket-dfgyhujkjnhbfd"
+	bucket = "jay-first-bucket-090807"
 }
 
 resource "aws_s3_bucket" "bucket2" {
